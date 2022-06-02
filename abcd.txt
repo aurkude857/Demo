@@ -1,1 +1,3 @@
 Welcome to Git Server
+Welcome to Cloud
+Welcome to Ubuntu
