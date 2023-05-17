@@ -1,5 +1,0 @@
-Hello I am from new branch
-How are you?
-Merge Cnflict
-MC
-
